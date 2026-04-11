@@ -1,7 +1,9 @@
 # Allowed TikTok usernames (one per line).
 # Case-insensitive. You can write with or without "@"
 
+Admin License:
 masjup88
 
-Trial :
-nurdinhdytt
+Trial License:
+
+Buyer License:
